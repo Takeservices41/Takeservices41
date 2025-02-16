@@ -1,6 +1,6 @@
 🚀 Expert OJS & WordPress Developer | Open Journal Systems Specialist
 
-Hello! I’m Dr. Asma Khan, a highly skilled OJS (Open Journal Systems) and WordPress Developer with extensive experience in setting up, customizing, and maintaining academic and research publishing platforms. As the CEO of WORLDWIDE EDUCATIONAL RESEARCH CENTER, I have hands-on expertise in journal management, academic publishing, and website development.
+Hello! I’m Zohaib Javed, a highly skilled OJS (Open Journal Systems) and WordPress Developer with extensive experience in setting up, customizing, and maintaining academic and research publishing platforms. As the CEO of WORLDWIDE EDUCATIONAL RESEARCH CENTER, I have hands-on expertise in journal management, academic publishing, and website development.
 
 🔹 OJS Specialist – I help academic institutions, universities, and research organizations set up and manage their Open Journal Systems (OJS), including installation, theme customization, plugin development, and troubleshooting.
 
